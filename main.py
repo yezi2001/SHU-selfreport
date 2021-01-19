@@ -129,7 +129,7 @@ def report(sess, t, xiaoqu='宝山', temperature=37):
                 'p1$BaoSRQ': t.strftime('%Y-%m-%d'),
                 'p1$DangQSTZK': '良好',
                 'p1$TiWen': str(temperature),
-                'p1$TiWen': '37',
+                'p1$TiWen': '36.6',
                 'p1$ZaiXiao': xiaoqu,
                 'p1$ddlSheng$Value': '上海',
                 'p1$ddlSheng': '上海',
